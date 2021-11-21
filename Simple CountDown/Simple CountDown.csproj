@@ -91,6 +91,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\picture.gif" />
     <Content Include="song.wav" />
   </ItemGroup>
   <ItemGroup>
